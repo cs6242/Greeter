@@ -15,6 +15,10 @@ import android.widget.TextView;
 // added this comment
 public class MainActivity extends AppCompatActivity {
 
+    /**
+     * Ovderrides onCreate.
+     * @param savedInstanceState the saved state
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
