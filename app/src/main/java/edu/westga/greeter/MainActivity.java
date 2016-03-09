@@ -12,6 +12,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+// added this comment
 public class MainActivity extends AppCompatActivity {
 
     @Override
