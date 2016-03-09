@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
     /**
      * Another overeridden method.
      * @param menu the menu
-     * @return boolean
+     * @return boolean value is returned.
      */
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
